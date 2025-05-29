@@ -12,20 +12,19 @@
 
 ###
 
-<p align="left">🎓 Business Information Systems Student at Politeknik Negeri Malang  <br>💻 Aspiring Frontend Developer & Data Analyst<br>🚀 Passionate about turning data into insights and building functional web applications<br><br>🔥 Current Focus<br>- 🌱 Learning Web Development<br>- 📊 Exploring Data Analysis with Python (Pandas, NumPy)<br>- 🏗️ Building projects to bridge business needs with technology solutions<br>- 📚 Deepening my understanding of  business intelligence</p>
+<p align="left" style="color:#e6edf3;">🎓 Business Information Systems Student at Politeknik Negeri Malang  <br>💻 Aspiring Frontend Developer & Data Analyst<br>🚀 Passionate about turning data into insights and building functional web applications<br><br>🔥 Current Focus<br>- 🌱 Learning Web Development<br>- 📊 Exploring Data Analysis with Python (Pandas, NumPy)<br>- 🏗️ Building projects to bridge business needs with technology solutions<br>- 📚 Deepening my understanding of business intelligence</p>
 
 ###
+
 <h2 align="left">Statistics ✨</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nasywasyafinka&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nasywasyafinka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-<!--   <img src="https://streak-stats.demolab.com?user=nasywasyafinka&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
-
-<h2 align="left">Thropy ✨</h2>
   <img src="https://github-profile-trophy.vercel.app?username=nasywasyafinka&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
+
 <h2 align="left">Tech Skills ✨</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -44,9 +43,10 @@
 </div>
 
 ###
+
 <h2 align="left">Let's Connect With Me !!! ✨</h2>
 <div align="left">
-  <a href="linkedin.com/in/nasywasyafinka/" target="_blank">
+  <a href="https://linkedin.com/in/nasywasyafinka/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/users/nasywasyafinka" target="_blank">
@@ -58,17 +58,13 @@
   <a href="https://www.instagram.com/nasywaamara" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="syafinkaw@gmail.com" target="_blank">
+  <a href="mailto:syafinkaw@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nasywasyafinka/nasywasyafinka/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nasywasyafinka/nasywasyafinka/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nasywasyafinka/nasywasyafinka/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nasywasyafinka/nasywasyafinka/output/pacman-contribution-graph-dark.svg" alt="Dark Mode Contribution Graph" />
+</div>
