@@ -18,7 +18,6 @@
   <span style="display:block; margin-bottom:16px;">🚀 Passionate about turning data into insights and building functional web applications</span>
   
   <strong style="color:#58a6ff; display:block; margin-bottom:8px;">🔥 Current Focus</strong>
-  - <span style="color:#c9d1d9;">🌱 Learning Web Development</span><br>
   - <span style="color:#c9d1d9;">📊 Exploring Data Analysis with Python (Pandas, NumPy)</span><br>
   - <span style="color:#c9d1d9;">🏗️ Building projects to bridge business needs with technology solutions</span><br>
   - <span style="color:#c9d1d9;">📚 Deepening my understanding of business intelligence</span>
